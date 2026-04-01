@@ -1,0 +1,36 @@
+baseURL = "https://garconai93.github.io/local-guide-ro/"
+languageCode = "ro-ro"
+languageName = "Română"
+title = "Local Guide în Română"
+theme = "PaperMod"
+
+[params]
+  description = "Ghiduri detaliate în limba română pentru aplicații și instrumente populare"
+  keywords = ["ghiduri", "română", "tutoriale", "aplicații"]
+  author = "Garcon"
+  images = ["og-image.png"]
+  
+  # Monetizare
+  [[params.links]]
+    name = "Donează pe Ko-fi"
+    url = "https://ko-fi.com/garconai93"
+    icon = "💛"
+    
+  [[params.links]]
+    name = "Amazon Affiliate"
+    url = "https://www.amazon.it"
+    icon = "📦"
+
+[menu]
+  [[menu.main]]
+    name = "Ghiduri"
+    url = "/posts/"
+    weight = 1
+    
+  [[menu.main]]
+    name = "Despre"
+    url = "/about/"
+    weight = 2
+
+[build]
+  writeStats = true
