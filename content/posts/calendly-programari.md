@@ -6,7 +6,7 @@ description: "Ghid complet pentru utilizarea Calendly: crearea de tipuri de prog
 keywords: ["Calendly", "programări", "calendar", "scheduler", "productivitate", "meetings"]
 image: "calendly-cover.jpg"
 tags: ["Calendly", "Programări", "Productivitate", "Tutorial"]
-readingTime: 7 min
+readingTime: "7 min"
 ---
 
 # 📅 Cum să-ți gestionezi programările cu Calendly

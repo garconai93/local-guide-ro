@@ -6,7 +6,7 @@ description: "Ghid complet Canva pentru PDF și prezentări. Cum să creezi docu
 keywords: ["Canva", "PDF", "prezentări", "design", "convert PDF", "document interactiv", "Canva Pro"]
 image: "canva-pdf-prezentari.jpg"
 tags: ["Canva", "PDF", "Prezentări", "Design", "Tutorial"]
-readingTime: "10 min
+readingTime: "10 min"
 ---
 
 # 📄 Ghid Canva PDF și prezentări: Documente interactive și design profesionist

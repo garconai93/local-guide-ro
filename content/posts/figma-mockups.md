@@ -6,7 +6,7 @@ description: "Ghid complet pentru crearea de mockups și wireframes simple cu Fi
 keywords: ["Figma", "mockup", "wireframe", "design", "UI/UX", "prototyping"]
 image: "figma-cover.jpg"
 tags: ["Figma", "Design", "UI/UX", "Tutorial"]
-readingTime: 9 min
+readingTime: "9 min"
 ---
 
 # 🎨 Cum să creezi mockups simple cu Figma (free)
