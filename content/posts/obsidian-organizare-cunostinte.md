@@ -6,7 +6,7 @@ description: "Ghid complet pentru organizarea eficientă a cunoștințelor cu Ob
 keywords: ["Obsidian", "luare note", "cunoștințe", "Zettelkasten", "PKM", "markdown"]
 image: "obsidian-cover.jpg"
 tags: ["Obsidian", "Note-taking", "Productivitate", "Tutorial"]
-readingTime: "11 min
+readingTime: "11 min"
 ---
 
 # 🧠 Cum să-ți organizezi cunoștințele cu Obsidian

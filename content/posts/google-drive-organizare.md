@@ -6,7 +6,7 @@ description: "Ghid complet pentru organizarea eficientă a fișierelor pe Google
 keywords: ["Google Drive", "organizare", "fișiere", "cloud storage", "Google Workspace"]
 image: "google-drive-cover.jpg"
 tags: ["Google Drive", "Cloud", "Organizare", "Tutorial"]
-readingTime: "8 min
+readingTime: "8 min"
 ---
 
 # 📁 Cum să-ți organizezi fișierele pe Google Drive

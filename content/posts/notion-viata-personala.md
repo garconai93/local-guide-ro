@@ -6,7 +6,7 @@ description: "Ghid complet pentru organizarea vieții personale cu Notion: buget
 keywords: ["Notion", "viață personală", "organizare", "buget", "călătorii", "obiective"]
 image: "notion-personal-cover.jpg"
 tags: ["Notion", "Viață Personală", "Organizare", "Tutorial"]
-readingTime: "9 min
+readingTime: "9 min"
 ---
 
 # 🏠 Cum să folosești Notion pentru viața personală

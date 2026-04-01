@@ -6,7 +6,7 @@ description: "Ghid complet pentru automatizarea sarcinilor repetitive cu Zapier 
 keywords: ["Zapier", "automatizare", "productivitate", "workflow", "integration"]
 image: "zapier-cover.jpg"
 tags: ["Zapier", "Automatizare", "Productivitate", "Tutorial"]
-readingTime: "8 min
+readingTime: "8 min"
 ---
 
 # ⚡ Cum să automatizezi task-uri cu Zapier (free tier)

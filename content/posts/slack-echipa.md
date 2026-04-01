@@ -6,7 +6,7 @@ description: "Ghid complet pentru configurarea și utilizarea Slack în echipe: 
 keywords: ["Slack", "comunicare echipa", "productivitate", "colaborare", "remote work"]
 image: "slack-cover.jpg"
 tags: ["Slack", "Echipe", "Remote Work", "Tutorial"]
-readingTime: "9 min
+readingTime: "9 min"
 ---
 
 # 💬 Cum să configurezi Slack pentru echipa ta

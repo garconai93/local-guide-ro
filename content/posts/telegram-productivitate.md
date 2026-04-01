@@ -6,7 +6,7 @@ description: "Ghid complet pentru utilizarea Telegram în scopuri productive: or
 keywords: ["Telegram", "productivitate", "automatizare", "bot-i", "organizare", "mesagerie"]
 image: "telegram-cover.jpg"
 tags: ["Telegram", "Productivitate", "Tutorial", "Automatizare"]
-readingTime: "9 min
+readingTime: "9 min"
 ---
 
 # 💬 Cum să folosești Telegram ca instrument de productivitate
