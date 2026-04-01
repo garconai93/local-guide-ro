@@ -6,7 +6,7 @@ description: "Ghid complet Rectangle pentru Mac. Window manager gratuit care îm
 keywords: ["Rectangle", "window manager", "Mac", "organizare ferestre", "productivitate", "macOS", "split screen"]
 image: "rectangle-window-manager.jpg"
 tags: ["Rectangle", "Mac", "Window Manager", "Productivitate", "Tutorial"]
-readingTime: "8 min
+readingTime: "8 min"
 ---
 
 # 🪟 Ghid Rectangle: Window Manager pentru Mac — Organizează ferestrele ca un pro

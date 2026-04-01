@@ -6,7 +6,7 @@ description: "Ghid complet Notion pentru workspace-uri de echipă. Cum să organ
 keywords: ["Notion", "echipă", "colaborare", "workspace", "documentație", "management proiecte", "Notion for teams"]
 image: "notion-workspace-echipe.jpg"
 tags: ["Notion", "Echipă", "Colaborare", "Tutorial", "Productivitate"]
-readingTime: "12 min
+readingTime: "12 min"
 ---
 
 # 👥 Ghid Notion Workspace pentru echipe: Colaborare și organizare

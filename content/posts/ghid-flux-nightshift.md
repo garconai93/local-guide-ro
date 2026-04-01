@@ -6,7 +6,7 @@ description: "Ghid complet pentru sănătatea ochilor. F.lux și Night Shift red
 keywords: ["F.lux", "Night Shift", "lumină albastră", "sănătatea ochilor", "oboseală", "macOS", "iOS", "Windows"]
 image: "flux-night-shift.jpg"
 tags: ["F.lux", "Night Shift", "Sănătatea Ochilor", "Productivitate", "Tutorial"]
-readingTime: "8 min
+readingTime: "8 min"
 ---
 
 # 👁️ Ghid F.lux și Night Shift: Sănătatea ochilor și somnul
