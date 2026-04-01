@@ -1,13 +1,13 @@
 baseURL = "https://garconai93.github.io/local-guide-ro/"
-languageCode = "ro-ro"
+languageCode = "ro-RO"
 languageName = "Română"
+defaultContentLanguage = "ro"
 title = "Local Guide în Română"
 theme = "PaperMod"
 
 [params]
   description = "Ghiduri detaliate în limba română pentru aplicații și instrumente populare"
   keywords = ["ghiduri", "română", "tutoriale", "aplicații"]
-  author = "Garcon"
   images = ["og-image.png"]
   
   # Monetizare
